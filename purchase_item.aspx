@@ -444,7 +444,7 @@
                         </div>
                         <div class="single-wid-product">
                             <a href="single-product.aspx"><img src="Images/product-thumb-1.jpg" alt="" class="product-thumb"></a>
-                            <h2><a href="single-product.aspx">Sony playstation microsoft</h2>
+                            <h2><a href="single-product.aspx">Sony playstation microsoft</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
