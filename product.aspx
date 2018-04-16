@@ -131,7 +131,7 @@
 			<div class="block-slider block-slider4">
 				<ul class="" id="bxslider-home4">
 					<li>
-						<img src="Images/h4-slide.png" alt="Slide">
+						<img src="Images/h4-slide.png" alt="Slide">cong 
 						<div class="caption-group">
 							<h2 class="caption title">
 								iPhone <span class="primary">6 <strong>Plus</strong></span>
