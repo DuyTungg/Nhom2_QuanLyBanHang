@@ -210,7 +210,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="latest-product">
-                        <h2 class="section-title">Product</h2>
+                        <h2 class="section-title" style="color:blue">Product</h2>
 
                         <asp:FormView ID="FormView1" runat="server" AllowPaging="True" DataKeyNames="Id" DataSourceID="SqlDataProduct">
                             <EditItemTemplate>
